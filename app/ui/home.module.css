@@ -1,0 +1,9 @@
+.shape {
+    height: 92px;
+    width: 100%;
+    background-color: #2563eb; /* Blue color */
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+    margin: -24px -24px 0;
+  }
